@@ -1,4 +1,4 @@
-<h3 align="center">👨🏻‍💻 Hey there! I'm Ybrahin Martinez <img src="https://github.com/y-martinez/y-martinez/blob/master/Hi.gif" width="30px"> </h3>
+<h3 align="center">👨🏻‍💻 Hey there! I'm Ybrahin Martinez <img src="https://github.com/y-martinez/y-martinez/blob/master/hi.gif" width="30px"> </h3>
 <h3 align="center">🚀 Software Developer | Open Source | Devops 🚀</h3>
 
 ---
@@ -15,7 +15,7 @@
 
 ### Languages & Tools 💻
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=748FAC"/>
   <img src="https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=748FAC"/>
   <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=748FAC"/>
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=748FAC"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-Amazon_aws-grey?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=748FAC"/>
   <img src="https://img.shields.io/badge/-Google_Cloud-grey?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=748FAC"/>
   <img src="https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=748FAC"/>
@@ -35,24 +35,43 @@
   <img src="https://img.shields.io/badge/-Jenkins-grey?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=748FAC"/>
   <img src="https://img.shields.io/badge/-Github_Actions-grey?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=748FAC"/>
   <img src="https://img.shields.io/badge/-Travis_CI-grey?style=for-the-badge&logo=travis-ci&logoColor=white&labelColor=748FAC"/>
+
+  <img src="https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=748FAC"/>
+  <img src="https://img.shields.io/badge/-VS_code-grey?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=748FAC"/>
   
 </p>
 
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=y-martinez&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide=stars"/>
 
-<a href="https://github.com/y-martinez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=y-martinez&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide=stars"/>
-</a>
-<a href="https://github.com/y-martinez">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-martinez&layout=compact&theme=nord&hide=php,javascript,html,css,java" />
-</a>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-martinez&layout=compact&theme=nord&hide=php,javascript,html,css,java" />
+</p>
 
 
 ### Let's connect and chat 📫
 
+<p align="center">
+  <a href="mailto:martinez.ybrahin@gmail.com" alt="Ybrahin Martinez's Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white&labelColor=748FAC"/>
+  </a>
 
-<a href="https://twitter.com/Ybra_Martinez" alt="Ybrahin Martinez's Twitter account">![Twitter](https://img.shields.io/badge/-Linkedin-grey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=748FAC)</a>
-<a href="https://www.linkedin.com/in/ybrahinmartinez/" alt="Ybrahin Martinez's Linkedin account">![Linkedin](https://img.shields.io/badge/-Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white&labelColor=748FAC)</a>
-<a href="https://dev.to/ymartinez" alt="Ybrahin Martinez's DEV Profile">![Dev](https://img.shields.io/badge/-dev.to-grey?style=for-the-badge&logo=dev&logoColor=white&labelColor=748FAC)</a>
+
+
+  <a href="https://www.linkedin.com/in/ybrahinmartinez/" alt="Ybrahin Martinez's Linkedin account">
+    <img src="https://img.shields.io/badge/-Linkedin-grey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=748FAC"/>
+  </a>
+
+  <a href="https://twitter.com/Ybra_Martinez" alt="Ybrahin Martinez's Twitter account">
+    <img src="https://img.shields.io/badge/-Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white&labelColor=748FAC"/>
+  </a>
+
+  <a href="https://dev.to/ymartinez" alt="Ybrahin Martinez's DEV Profile">
+    <img src="https://img.shields.io/badge/-dev_to-grey?style=for-the-badge&logo=dev-dot-to&logoColor=white&labelColor=748FAC"/>
+  </a>
+
+
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=y-martinez.y-martinez&color=555555&labelColor=748FAC&logo=GitHub&logoColor=white&style=for-the-badge">
+</p>
 
 ---
 
