@@ -1,16 +1,64 @@
-### Hi there 👋
+<h3 align="center">👨🏻‍💻 Hey there! I'm Ybrahin Martinez <img src="https://github.com/y-martinez/y-martinez/blob/master/Hi.gif" width="30px"> </h3>
+<h3 align="center">🚀 Software Developer | Open Source | Devops 🚀</h3>
 
-<!--
-**y-martinez/y-martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=y-martinez&count_private=true&show_icons=true&theme=nord" alt="The only streaks that matter"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me ✨
+
+- 🔭 I’m currently working as a Python developer at PSF as a part of my GSoC Internship.
+- 🌱 I’m currently learning DevOps and exploring new technologies related to Software Development.
+- 👯 I’m looking to get a position as a DevOps Engineer or Backend engineer, also I’m looking to collaborate on Open Source projects.
+- 💬 Ask me about anything of Tech also about Movies, Series, and videogames 🎮.
+- 😄 Pronouns: he/him/his
+
+### Languages & Tools 💻
+
+<p>
+  <img src="https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=748FAC"/>
+  <img src="https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=748FAC"/>
+  <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=748FAC"/>
+  <img src="https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=748FAC"/>
+  
+  <img src="https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=748FAC"/>
+  <img src="https://img.shields.io/badge/-django-grey?style=for-the-badge&logo=django&logoColor=white&labelColor=748FAC"/>
+  <img src="https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=748FAC"/>
+  <img src="https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=748FAC"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Amazon_aws-grey?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=748FAC"/>
+  <img src="https://img.shields.io/badge/-Google_Cloud-grey?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=748FAC"/>
+  <img src="https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=748FAC"/>
+  
+  <img src="https://img.shields.io/badge/-Jenkins-grey?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=748FAC"/>
+  <img src="https://img.shields.io/badge/-Github_Actions-grey?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=748FAC"/>
+  <img src="https://img.shields.io/badge/-Travis_CI-grey?style=for-the-badge&logo=travis-ci&logoColor=white&labelColor=748FAC"/>
+  
+</p>
+
+
+<a href="https://github.com/y-martinez">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=y-martinez&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide=stars"/>
+</a>
+<a href="https://github.com/y-martinez">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-martinez&layout=compact&theme=nord&hide=php,javascript,html,css,java" />
+</a>
+
+
+### Let's connect and chat 📫
+
+
+<a href="https://twitter.com/Ybra_Martinez" alt="Ybrahin Martinez's Twitter account">![Twitter](https://img.shields.io/badge/-Linkedin-grey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=748FAC)</a>
+<a href="https://www.linkedin.com/in/ybrahinmartinez/" alt="Ybrahin Martinez's Linkedin account">![Linkedin](https://img.shields.io/badge/-Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white&labelColor=748FAC)</a>
+<a href="https://dev.to/ymartinez" alt="Ybrahin Martinez's DEV Profile">![Dev](https://img.shields.io/badge/-dev.to-grey?style=for-the-badge&logo=dev&logoColor=white&labelColor=748FAC)</a>
+
+---
+
+<p align="center">
+   <i>A person who never made a mistake, never tried anything new.</i>
+   <br>
+   <i>Albert Einstein.</i>
+</p> 
+
