@@ -1,4 +1,4 @@
-<h3 align="center">👨🏻‍💻 Hey there! I'm Ybrahin Martinez <img src="https://github.com/y-martinez/y-martinez/blob/master/hi.gif" width="30px"> </h3>
+<h3 align="center">👨🏻‍💻 Hey there! I'm Ybrahin Martinez <img src="https://github.com/y-martinez/y-martinez/blob/main/hi.gif" width="30px"> </h3>
 <h3 align="center">🚀 Software Developer | Open Source | Devops 🚀</h3>
 
 ---
