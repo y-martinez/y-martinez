@@ -7,10 +7,10 @@
 
 ### About me ✨
 
-- 🔭 I’m currently working as a Python developer at PSF as a part of my GSoC Internship.
-- 🌱 I’m currently learning DevOps and exploring new technologies related to Software Development.
-- 👯 I’m looking to get a position as a DevOps Engineer or Backend engineer, also I’m looking to collaborate on Open Source projects.
-- 💬 Ask me about anything of Tech also about Movies, Series, and videogames 🎮.
+- 🔭 I'm currently working as a Software Developer at Clay Technologies as a part of the RPA team.
+- 🌱 I'm currently learning DevOps and exploring new technologies related to Software Development.
+- 👯 I'm looking to get a position as a DevOps Engineer or Backend engineer, also I’m looking to collaborate on Open Source projects.
+- 💬 Ask me about anything of Tech and also about Movies, Series, and video games 🎮.
 - 😄 Pronouns: he/him/his
 
 ### Languages & Tools 💻
@@ -69,8 +69,10 @@
     <img src="https://img.shields.io/badge/-dev_to-grey?style=for-the-badge&logo=dev-dot-to&logoColor=white&labelColor=748FAC"/>
   </a>
 
-
+  <!--
+    Eliminado de momento
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=y-martinez.y-martinez&color=555555&labelColor=748FAC&logo=GitHub&logoColor=white&style=for-the-badge">
+  -->
 </p>
 
 ---
